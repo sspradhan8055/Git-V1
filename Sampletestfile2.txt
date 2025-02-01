@@ -1,3 +1,1 @@
 This is Sample file 2
-
-GIT reset Commit 2
